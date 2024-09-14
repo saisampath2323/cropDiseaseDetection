@@ -1,0 +1,37 @@
+.ticket-view-container {
+    margin: 20px;
+  }
+  
+  .ticket-details {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .ticket-image img {
+    max-width: 100%;
+    height: auto;
+    margin: 10px 0;
+  }
+  
+  .solution-item {
+    background-color: #e0f7fa;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 8px;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  

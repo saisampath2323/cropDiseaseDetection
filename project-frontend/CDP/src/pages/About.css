@@ -1,0 +1,47 @@
+/* src/components/About.css */
+.about {
+    padding: 40px 20px;
+    background: #f9f9f9;
+  }
+  
+  .heading {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  .heading .heading span {
+    color: #28a745;
+  }
+  
+  .row {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .row .image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
+  
+  .row .content {
+    max-width: 600px;
+    margin-left: 20px;
+  }
+  
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    padding: 10px 20px;
+    background: #28a745;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .btn:hover {
+    background: #218838;
+  }
+  

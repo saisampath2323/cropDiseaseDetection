@@ -1,0 +1,18 @@
+/* src/components/IconsContainer.css */
+.icons-container {
+    display: flex;
+    justify-content: space-around;
+    padding: 40px 20px;
+    background: #f9f9f9;
+  }
+  
+  .icons {
+    text-align: center;
+  }
+  
+  .icon {
+    font-size: 40px;
+    color: #28a745;
+    margin-bottom: 10px;
+  }
+  
